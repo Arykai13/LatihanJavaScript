@@ -1,3 +1,0 @@
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
